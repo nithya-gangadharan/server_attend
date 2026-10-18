@@ -1,0 +1,85 @@
+{
+  "students": [
+    {
+      "name": "elsa",
+      "email": "abc@gmail.com",
+      "department": "software testing",
+      "id": "Zwbs-uVu5uU"
+    }
+  ],
+  "attendance": [
+    {
+      "studentId": null,
+      "name": "noy",
+      "email": "noy@gmail.com",
+      "department": "data analytics",
+      "date": "2026-10-18",
+      "status": "Present",
+      "id": "b6xwzXUbNS4"
+    },
+    {
+      "studentId": null,
+      "name": "noy",
+      "email": "noy@gmail.com",
+      "department": "data analytics",
+      "date": "2026-10-18",
+      "status": "Present",
+      "id": "yHaEJ9EN02E"
+    },
+    {
+      "studentId": null,
+      "name": "noy",
+      "email": "noy@gmail.com",
+      "department": "data analytics",
+      "date": "2026-10-18",
+      "status": "Present",
+      "id": "qJ7gIbkfnCY"
+    },
+    {
+      "studentId": null,
+      "name": "noy",
+      "email": "noy@gmail.com",
+      "department": "data analytics",
+      "date": "2026-10-18",
+      "status": "Present",
+      "id": "OMTgsok2bJo"
+    },
+    {
+      "studentId": null,
+      "name": "noy",
+      "email": "noy@gmail.com",
+      "department": "data analytics",
+      "date": "2026-10-18",
+      "status": "Absent",
+      "id": "q3ezbYPBq4Y"
+    },
+    {
+      "studentId": null,
+      "name": "noy",
+      "email": "noy@gmail.com",
+      "department": "data analytics",
+      "date": "2026-10-18",
+      "status": "Present",
+      "id": "CkLrp1NOiS4"
+    },
+    {
+      "studentId": null,
+      "name": "joy",
+      "email": "john@gmail.com",
+      "department": "data analyst",
+      "date": "2026-10-18",
+      "status": "Present",
+      "id": "PHMiuF-LjrU"
+    },
+    {
+      "studentId": "Zwbs-uVu5uU",
+      "name": "elsa",
+      "email": "abc@gmail.com",
+      "department": "software testing",
+      "date": "2026-10-18",
+      "status": "Absent",
+      "id": "1skhHN0mL64"
+    }
+  ]
+ 
+}
